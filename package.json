@@ -1,0 +1,20 @@
+{
+  "name": "@nicolai8/scrollspy.js",
+  "version": "0.1.4",
+  "description": "A jQuery plugin for detecting enter/exit of elements in the viewport when the user scrolls.",
+  "main": "scrollspy.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nicolai8/scrollspy.js.git"
+  },
+  "keywords": [
+    "scrollspy",
+    "jquery"
+  ],
+  "author": "Nicolai Bolotin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Nicolai8/scrollspy.js/issues"
+  },
+  "homepage": "https://github.com/Nicolai8/scrollspy.js#readme"
+}
