@@ -10,7 +10,7 @@
  * Licensed under the MIT license.
  * Copyright 2018 Nicolai Bolotin
  * https://github.com/Nicolai8/jquery-scrollspy
- * @version 0.1.3
+ * @version 0.1.4
  */
 (function ($) {
 
