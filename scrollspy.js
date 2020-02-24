@@ -1,5 +1,5 @@
 /**
- * jqueryScrollSpy.js
+ * scrollspy.js
  * Extend jquery with a scrollspy plugin.
  * This watches the window scroll and fires events when elements are scrolled into viewport.
  * Based on https://github.com/thesmart/jquery-scrollspy
